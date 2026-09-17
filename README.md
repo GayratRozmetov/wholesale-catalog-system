@@ -1,4 +1,5 @@
 # Wholesale Catalog System
+[![Open Live Demo](https://img.shields.io/badge/OPEN_LIVE_DEMO-FF4E24?style=for-the-badge&logo=vercel&logoColor=white)](https://wholesale-catalog-system.vercel.app/)
 
 A full-stack wholesale catalog and order management platform built with ASP.NET Core, React, TypeScript and PostgreSQL.
 
